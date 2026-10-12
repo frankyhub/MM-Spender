@@ -5,17 +5,18 @@
 |[:skull:ISSUE](https://github.com/frankyhub/MM-Spender/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/MM-Spender/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/MM-Spender/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/MM-Spender/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/MM-Spender)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/MM-Spender)|<a href="https://github.com/frankyhub/MM-Spender/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/MM-Spender)|<a href="https://github.com/frankyhub/MM-Spender/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/MM-Spender)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2035-blue)|
+<a href="https://github.com/frankyhub/MM-Spender/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/MM-Spender)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/MM-Spender)|<a href="https://github.com/frankyhub/MM-Spender/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/MM-Spender)|<a href="https://github.com/frankyhub/MM-Spender/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/MM-Spender)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20040-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/MM-Spender)| <a href="https://github.com/frankyhub/MM-Spender/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/MM-Spender/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars]
+
+
+<img src="pic/MM1.jpg" width="500"> 
+<br> <br>
 
 </div>
 
 
-# MM-Spender
-Holz Bastelarbeit
+## MM-Spender Holz Bastelarbeit
 
-<img src="pic/MM1.jpg" width="500"> 
-<br> <br>
 
 ## Arbeitsschritte:
 
